@@ -1,2 +1,5 @@
 .ruby-version
 .idea
+log/*
+pids/*
+unicorn.sock
