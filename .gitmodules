@@ -1,0 +1,3 @@
+[submodule "WhatWeb"]
+	path = WhatWeb
+	url = git@github.com:urbanadventurer/WhatWeb.git
